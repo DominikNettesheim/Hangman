@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    vertical-align: top;
+    background-image: url("https://www.decomurale.ca/wp-content/uploads/2015/10/S_shutterstock_121905709.jpg")
+}
+Button {
+    background-color: transparent;
+    color: deeppink;
+}
+#difficulty{
+    background-color: transparent;
+    color: deeppink;
+}
+#guess{
+    background-color: transparent;
+    color: deeppink;
+}
+#title{
+    color: deeppink;
+    font-size: 80px;
+}
+#lives{
+    color: deeppink;
+    font-size: 50px;
+}
+#hangmanWord{
+    color: deeppink;
+    font-size: 60px;
+}
+#graveyard{
+    text-align: start;
+    color: deeppink;
+    font-size: 40px;
+}
+#graveyardTitle{
+    text-align: start;
+    color: red;
+    font-size: 50px;
+}
